@@ -1,2 +1,4 @@
 # project1
 Project test one.
+
+HTML5 / CSS3 / JAVASCRIPT / BOOTSTRAP / JQUERY / ANGULARJS / GIT / GITHUB / AJAX / JSON
